@@ -24,8 +24,8 @@ those of the author(s) and do not necessarily reflect the views of the National
 Science Foundation</p>
 
 <p>The software can be used freely for non-commercial purposes. You may modify
-and distribute the code for non-commercial purposes, as long as this <a
-(./Copyright.html) statement</a> and the contact information is included. </p>
+and distribute the code for non-commercial purposes, as long as
+![this statement](./Copyright.html) and the contact information is included. </p>
 
 <p>While this software has now been developed and used by the authors, a new
 user may well experience some problems or bugs. Please report these by email to
